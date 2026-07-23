@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the [School of Statistics and Data Science](https://stat.nankai.edu.cn/), Nankai University, and a member of the [Nankai Experimental Design Research Group](https://stat.nankai.edu.cn/sysj/list.htm). 
 
-I received my Ph.D. in Statistics from Simon Fraser University in December 2023 under the supervision of [Professor Boxin Tang](https://www.sfu.ca/~boxint/index.html). Before that, I obtained my M.S. from the University of Chicago (2018) and my B.Sc. from Beijing Normal University (2016).
+I received my Ph.D. in Statistics from Simon Fraser University in 2023 under the supervision of [Professor Boxin Tang](https://www.sfu.ca/~boxint/index.html). Before that, I obtained my M.S. from the University of Chicago in 2018 and my B.Sc. from Beijing Normal University in 2016.
 
 ---
 
