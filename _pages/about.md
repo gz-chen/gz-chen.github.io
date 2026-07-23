@@ -1,3 +1,13 @@
+
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Guanzhou Chen is an Assistant Professor at the School of Statistics and Data Science, Nankai University, and a member of the Nankai Experimental Design Research Group. He joined Nankai University in December 2023 after receiving his Ph.D. in Statistics from Simon Fraser University, Canada, under the supervision of Professor Boxin Tang.
 
 Dr. Chen obtained his B.Sc. in Mathematics from Beijing Normal University in 2016 and his M.S. in Statistics from the University of Chicago in 2018. His research interests lie primarily in the theory and methodology of experimental design, including factorial designs, orthogonal arrays, space-filling designs, computer experiments, and related topics in design construction and evaluation. His current research aims to advance the theoretical foundations of experimental design and develop efficient data collection methodologies for modern scientific investigations and data-driven applications.
