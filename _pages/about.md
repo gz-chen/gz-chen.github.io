@@ -48,8 +48,8 @@ My research focuses on the theory and methodology of **experimental design** and
 ### 🌐 Professional Activities & Services
 
 **Journal Reviewer for:**
-* *Journal of the Royal Statistical Society: Series B (JRSS-B)*
-* *Journal of the American Statistical Association (JASA)*
+* *Journal of the Royal Statistical Society: Series B*
+* *Journal of the American Statistical Association*
 * *Technometrics*
 * *Statistica Sinica*
 * *Electronic Journal of Statistics*
