@@ -21,13 +21,6 @@ My research focuses on the theory and methodology of **experimental design** and
 
 ---
 
-### 🎓 Education
-* **Ph.D. in Statistics** | Simon Fraser University, Canada (2018 – 2023)
-* **M.S. in Statistics** | University of Chicago, USA (2016 – 2018)
-* **B.Sc. in Mathematics** | Beijing Normal University, China (2012 – 2016)
-
----
-
 ### 🏆 Publications
 
 1. Guanzhou Chen and Boxin Tang*. (2022). A study of orthogonal array-based designs under a broad class of space-filling criteria. *Annals of Statistics*, **50**, 2925–2949.
@@ -53,6 +46,7 @@ My research focuses on the theory and methodology of **experimental design** and
 ---
 
 ### 🌐 Professional Activities & Services
+
 **Journal Reviewer for:**
 * *Journal of the Royal Statistical Society: Series B (JRSS-B)*
 * *Journal of the American Statistical Association (JASA)*
@@ -62,7 +56,15 @@ My research focuses on the theory and methodology of **experimental design** and
 * *Journal of Statistical Planning and Inference*
 * *Communications in Statistics – Theory and Methods*
 
-**Invited Conference Talks:**
-* Spring Research Conference (SRC)
+**Invited International Conference Talks:**
+* Spring Research Conference
 * International Conference on Econometrics and Statistics (EcoSta)
 * ICSA China Conference
+
+---
+
+### 📖 Teaching
+* **Design of Experiments (试验设计)** | Graduate Level
+  * Fall 2024, Fall 2025
+* **Predictive Analytics (预测分析)** | Undergraduate Level
+  * Spring 2024, Spring 2025, Spring 2026
