@@ -1,19 +1,63 @@
-
 ---
 permalink: /
-title: ""
+title: "Guanzhou Chen (陈冠洲)"
+excerpt: "Assistant Professor at Nankai University"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Guanzhou Chen is an Assistant Professor at the School of Statistics and Data Science, Nankai University, and a member of the Nankai Experimental Design Research Group. He joined Nankai University in December 2023 after receiving his Ph.D. in Statistics from Simon Fraser University, Canada, under the supervision of Professor Boxin Tang.
+I am an Assistant Professor at the [School of Statistics and Data Science](https://sds.nankai.edu.cn/), Nankai University, and a core member of the **Nankai Experimental Design Research Group**. 
 
-Dr. Chen obtained his B.Sc. in Mathematics from Beijing Normal University in 2016 and his M.S. in Statistics from the University of Chicago in 2018. His research interests lie primarily in the theory and methodology of experimental design, including factorial designs, orthogonal arrays, space-filling designs, computer experiments, and related topics in design construction and evaluation. His current research aims to advance the theoretical foundations of experimental design and develop efficient data collection methodologies for modern scientific investigations and data-driven applications.
+I received my Ph.D. in Statistics from Simon Fraser University in December 2023 under the supervision of [Professor Boxin Tang](https://www.sfu.ca/stat/people/faculty/boxin-tang.html). Before that, I earned my M.S. in Statistics from the University of Chicago (2018) and my B.Sc. in Mathematics from Beijing Normal University (2016).
 
-His research has been published in leading statistical journals, including The Annals of Statistics, Journal of the Royal Statistical Society: Series B (Statistical Methodology), Statistica Sinica, Electronic Journal of Statistics, and Journal of Statistical Planning and Inference. These works focus on developing novel theoretical frameworks and construction methods for experimental designs, with applications to both physical and computer experiments.
+---
 
-Dr. Chen currently serves as Principal Investigator of a Young Scientists Fund project supported by the National Natural Science Foundation of China (NSFC) and participates in an NSFC General Program project. He has been invited to present his research at several international conferences, including the Spring Research Conference, the International Conference on Econometrics and Statistics (EcoSta), the ICSA China Conference, and other venues in statistics and experimental design.
+### 🔬 Research Interests
+My research focuses on the theory and methodology of **experimental design** and data collection for modern scientific investigations, including:
+* Factorial designs & Orthogonal arrays
+* Space-filling designs & Computer experiments
+* Theoretical construction and evaluation of experimental designs
 
-In addition to his research activities, Dr. Chen actively contributes to the statistical community through professional service. He has served as a reviewer for numerous international journals, including Journal of the Royal Statistical Society: Series B, Journal of the American Statistical Association, Technometrics, Statistica Sinica, Electronic Journal of Statistics, Journal of Statistical Planning and Inference and Communications in Statistics – Theory and Methods.
+---
+
+### 🎓 Education
+* **Ph.D. in Statistics** | Simon Fraser University, Canada (2018 – 2023)
+  * Advisor: Prof. Boxin Tang
+* **M.S. in Statistics** | University of Chicago, USA (2016 – 2018)
+* **B.Sc. in Mathematics** | Beijing Normal University, China (2012 – 2016)
+
+---
+
+### 🏆 Selected Journal Publications
+*(For a full list and preprints, please visit my [Google Scholar](your-google-scholar-link) page.)*
+
+* **The Annals of Statistics**
+* **Journal of the Royal Statistical Society: Series B** *(Statistical Methodology)*
+* **Statistica Sinica**
+* **Electronic Journal of Statistics**
+* **Journal of Statistical Planning and Inference**
+
+---
+
+### 📌 Research Grants & Projects
+* **Principal Investigator (PI)**, *Young Scientists Fund*, National Natural Science Foundation of China (NSFC)
+* **Co-Investigator / Participant**, *General Program*, National Natural Science Foundation of China (NSFC)
+
+---
+
+### 🌐 Professional Activities & Services
+**Journal Reviewer for:**
+* *Journal of the Royal Statistical Society: Series B (JRSS-B)*
+* *Journal of the American Statistical Association (JASA)*
+* *Technometrics*
+* *Statistica Sinica*
+* *Electronic Journal of Statistics*
+* *Journal of Statistical Planning and Inference*
+* *Communications in Statistics – Theory and Methods*
+
+**Invited Conference Talks:**
+* Spring Research Conference (SRC)
+* International Conference on Econometrics and Statistics (EcoSta)
+* ICSA China Conference
