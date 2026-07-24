@@ -23,19 +23,19 @@ My research focuses on the theory and methodology of **experimental design** and
 
 ### 🏆 Publications
 
-1. Guanzhou Chen and Boxin Tang*. (2022). A study of orthogonal array-based designs under a broad class of space-filling criteria. *Annals of Statistics*, **50**, 2925–2949.
+1. Guanzhou Chen and Boxin Tang. (2022). A study of orthogonal array-based designs under a broad class of space-filling criteria. *Annals of Statistics*, **50**, 2925–2949.
 
-2. Guanzhou Chen and Boxin Tang*. (2022). Using nonregular designs to generate space-filling designs. *Journal of Statistical Planning and Inference*, **221**, 201–211.
+2. Guanzhou Chen and Boxin Tang. (2022). Using nonregular designs to generate space-filling designs. *Journal of Statistical Planning and Inference*, **221**, 201–211.
 
-3. Guanzhou Chen, Chenlu Shi and Boxin Tang*. (2023). Nonregular designs from Paley's Hadamard matrices: Generalized resolution, projectivity and hidden projection property. *Electronic Journal of Statistics*, **17**, 2120–2138.
+3. Guanzhou Chen, Chenlu Shi and Boxin Tang. (2023). Nonregular designs from Paley's Hadamard matrices: Generalized resolution, projectivity and hidden projection property. *Electronic Journal of Statistics*, **17**, 2120–2138.
 
-4. Guanzhou Chen* and Boxin Tang. (2024). Selecting strong orthogonal arrays by linear allowable level permutations. *Electronic Journal of Statistics*, **18**, 3573–3589. 
+4. Guanzhou Chen and Boxin Tang. (2024). Selecting strong orthogonal arrays by linear allowable level permutations. *Electronic Journal of Statistics*, **18**, 3573–3589. 
 
-5. Guanzhou Chen* and Boxin Tang. (2025). Minimum aberration factorial designs under a mixed parametrization. *Statistica Sinica*, **35**, 2433–2449. 
+5. Guanzhou Chen and Boxin Tang. (2025). Minimum aberration factorial designs under a mixed parametrization. *Statistica Sinica*, **35**, 2433–2449. 
 
-6. Guanzhou Chen, Yuanzhen He, C. Devon Lin and Fasheng Sun*. (2025). Grouped orthogonal arrays and their construction methods. *Statistica Sinica*. **Accepted for publication.** 
+6. Guanzhou Chen, Yuanzhen He, C. Devon Lin and Fasheng Sun. (2025). Grouped orthogonal arrays and their construction methods. *Statistica Sinica*. **Accepted for publication.** 
 
-7. Liushan Zhou, Ze Liu, Min-Qian Liu and Guanzhou Chen*. (2026). Stratum order-of-addition designs. *Journal of the Royal Statistical Society: Series B*. **Accepted for publication.** 
+7. Liushan Zhou, Ze Liu, Min-Qian Liu and Guanzhou Chen. (2026). Stratum order-of-addition designs. *Journal of the Royal Statistical Society: Series B*. **Accepted for publication.** 
 
 ---
 
